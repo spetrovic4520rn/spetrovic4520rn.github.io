@@ -4,16 +4,9 @@ body{
     font-family:  'Montserrat', sans-serif;
 }
 
-.proba{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-
 .logo-container { 
     display: flex; 
 } 
-
 
 .logo-container h5 {
     margin-top: 0.5em;
